@@ -10,6 +10,6 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
-<span>변경된 파일입니다.</span>
+<span>변경된 파일입니다!.</span>
 </body>
 </html>
